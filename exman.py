@@ -1,5 +1,3 @@
-from ast import If
-
 import numpy as np
 
 matriz = np.random.random((5, 5))
